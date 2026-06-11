@@ -1,0 +1,3 @@
+# Don't deploy the blog generator — only the static site files.
+blog-agent
+.github
